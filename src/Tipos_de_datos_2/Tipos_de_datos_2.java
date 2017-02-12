@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Tipos_de_datos_2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub, 
+		// CAMBIO EN EL ARCHIVO PARA ACTUALIZAR EN INTELLIJ 
 		
 		int A = 0, B = 0, C = 0, X = 0;
 		int visitas = 0, select;
